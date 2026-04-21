@@ -53,7 +53,14 @@ It also performs data analysis and visualization to identify important factors a
 1. Clone the repository or download ZIP  
 2. Install required libraries:
 3. Run the Python file:---
+   
+## ⚠️ Important Note
 
+Ensure that you run the Python file from the project directory where all files are located.
+Steps:
+1. Open terminal
+2. Navigate to the project folder:
+   
 ## ✅ Output
 - Predicts passenger survival status (Survived / Not Survived)
 - Displays graphical analysis using charts and plots
